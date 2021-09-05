@@ -1,0 +1,25 @@
+	<html>
+	    <head>
+	        <!--设置标题-->
+	        <title>静夜思</title>
+	    </head>
+	    <body>
+	        <!--输出标题文字-->
+	        <h2>
+	            <Font size=3 Color="read"> 静夜思</Font>
+	        </h2>
+	            <!--输出普通文字-->
+	        <b>作者：李白</b><br>
+	        <hr Color="blue">
+	        <!--输出段落文字-->
+	        <p>
+	            <b><i>
+	                    <Font size=3 Color="green">
+	                        床前明月光，疑是地上霜。
+	                        <br>
+	                        举头望明月，低头思故乡。
+	                    </Font>
+	                </i>
+	            </b>
+	            </body>
+	        </html>

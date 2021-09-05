@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch01code/ch01code.iml" filepath="$PROJECT_DIR$/ch01code/ch01code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02code/ch02code.iml" filepath="$PROJECT_DIR$/ch02code/ch02code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03code/ch03code.iml" filepath="$PROJECT_DIR$/ch03code/ch03code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04code/ch04code.iml" filepath="$PROJECT_DIR$/ch04code/ch04code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05code/ch05code.iml" filepath="$PROJECT_DIR$/ch05code/ch05code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06code/ch06code.iml" filepath="$PROJECT_DIR$/ch06code/ch06code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07code/ch07code.iml" filepath="$PROJECT_DIR$/ch07code/ch07code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08code/ch08code.iml" filepath="$PROJECT_DIR$/ch08code/ch08code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09code/ch09code.iml" filepath="$PROJECT_DIR$/ch09code/ch09code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch10code/ch10code.iml" filepath="$PROJECT_DIR$/ch10code/ch10code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11code/ch11code.iml" filepath="$PROJECT_DIR$/ch11code/ch11code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch12code/ch12code.iml" filepath="$PROJECT_DIR$/ch12code/ch12code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch13code/ch13code.iml" filepath="$PROJECT_DIR$/ch13code/ch13code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch14code/ch14code.iml" filepath="$PROJECT_DIR$/ch14code/ch14code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch15code/ch15code.iml" filepath="$PROJECT_DIR$/ch15code/ch15code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch16code/ch16code.iml" filepath="$PROJECT_DIR$/ch16code/ch16code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch17code/ch17code.iml" filepath="$PROJECT_DIR$/ch17code/ch17code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch18code/ch18code.iml" filepath="$PROJECT_DIR$/ch18code/ch18code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch19code/ch19code.iml" filepath="$PROJECT_DIR$/ch19code/ch19code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch20code/ch20code.iml" filepath="$PROJECT_DIR$/ch20code/ch20code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch21code/ch21code.iml" filepath="$PROJECT_DIR$/ch21code/ch21code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch22code/ch22code.iml" filepath="$PROJECT_DIR$/ch22code/ch22code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch23code/ch23code.iml" filepath="$PROJECT_DIR$/ch23code/ch23code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webdomtest/webdomtest.iml" filepath="$PROJECT_DIR$/webdomtest/webdomtest.iml" />
+    </modules>
+  </component>
+</project>

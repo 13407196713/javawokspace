@@ -1,0 +1,52 @@
+package ch18code;
+
+import java.io.File;
+
+import javax.swing.text.Document;
+import javax.swing.text.html.parser.Element;
+
+import org.dom4j.io.*;
+public class Dom4jApp {
+	public Dom4jApp()                               			
+			{
+			}
+			public static void parseXML()                     		
+			{
+				SAXReader parser=new SAXReader();     			
+				try{
+					Document doc=parser.read(new File("depts.xml")); 
+					Element root=doc.getRootElement();   		
+				    String rootName=root.getName();      		
+					System.out.println(rootName);       			
+					List<Element> list=root.elements();    		
+															
+					for(Element e:list)
+					{
+						String eName=e.getName();      			
+						System.out.println(eName);     			
+						List<Attribute> atts=e.attributes();	
+						for(Attribute att:atts)
+						{
+							String attName=att.getName();		
+							String attValue=att.getValue(); 	
+							System.out.println(attName+"---"+attValue);
+						}
+						Iterator<Element> iter=e.elementIterator();	
+						while(iter.hasNext())
+						{
+							Element child=iter.next(); 
+							String childName=child.getName(); 	
+							String childText=child.getText();  	
+							System.out.println(childName+"---"+childText);
+						}
+					}
+				}catch(Exception e){
+					e.printStackTrace();
+				}
+			}
+			public static void main(String[] args)      			
+			{
+				parseXML();                              			
+			}
+
+}

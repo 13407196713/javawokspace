@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE company [
+<!ELEMENT company (employee|manager)*>     	
+<!ELEMENT employee (name)>                 		
+<!ELEMENT manager EMPTY>                 		
+<!ELEMENT name (#PCDATA)>                 		
+<!ATTLIST employee sn ID #REQUIRED>      	
+<!ATTLIST manager mgrid IDREF #REQUIRED>
+]>
+<company>
+<employee sn="300212">
+<name>赵浩</name>
+</employee>
+<employee sn="300213">
+<name>李丽</name>
+</employee>
+<manager mgrid="300212"/>
+</company>

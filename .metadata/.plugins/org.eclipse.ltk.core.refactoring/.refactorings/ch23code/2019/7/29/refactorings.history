@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;ch24code&apos; to &apos;ch23code&apos;&#x0D;&#x0A;- Original project: &apos;ch23code&apos;&#x0D;&#x0A;- Original element: &apos;ch23code/src/ch24code&apos;&#x0D;&#x0A;- Renamed element: &apos;ch23code/src/ch23code&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;ch24code&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;ch24code" name="ch23code" qualified="false" references="true" stamp="1563421757334" textual="false" version="1.0"/>
+</session>

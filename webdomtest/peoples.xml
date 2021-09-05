@@ -1,0 +1,26 @@
+
+<!--人的信息xml文件-->
+<peoples>
+  <person pid="1">
+    <!--第一个人-->
+    <pname>张三</pname>
+    <psex>男</psex>
+    <page>20</page>
+    <phone>13556746645</phone>
+  </person>
+  <person pid="2">
+    <!--第二个人-->
+    <pname>张三</pname>
+    <psex>男</psex>
+    <page>20</page>
+    <phone>13556746645</phone>
+  </person>
+  <person pid="3">
+    <!--第二个人-->
+    <pname>李四</pname>
+    <psex>男</psex>
+    <page>20</page>
+    <phone>13556746645</phone>
+    <!--第三个人-->
+  </person>
+</peoples>
